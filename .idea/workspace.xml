@@ -4,10 +4,8 @@
     <list default="true" id="d7461334-94f8-4e87-8aff-f82eaee67313" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heirarchical_data/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/heirarchical_data/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heirarchical_data/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/heirarchical_data/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mpttapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpttapp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mpttapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpttapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mpttapp/templates/addfile.html" beforeDir="false" afterPath="$PROJECT_DIR$/mpttapp/templates/addfile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mpttapp/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mpttapp/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mpttapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpttapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
