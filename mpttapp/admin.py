@@ -1,6 +1,16 @@
 from django.contrib import admin
-from mpttapp.models import File
 from mptt.admin import DraggableMPTTAdmin
+from mpttapp.models import File
 
-# Register your models here.
-admin.site.register(File, DraggableMPTTAdmin)
+
+admin.site.register(
+    File,
+    DraggableMPTTAdmin,
+    list_display=(
+        'tree_actions',
+        'indented_title',
+    ),
+    list_display_links=(
+        'indented_title',
+    ),
+)

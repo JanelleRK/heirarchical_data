@@ -8,6 +8,7 @@ class File(MPTTModel):
 
     class MPTTMeta:
         order_insertion_by = ['name']
+        level_attr = 'mptt_level'
 
     def __str__(self):
         return self.name

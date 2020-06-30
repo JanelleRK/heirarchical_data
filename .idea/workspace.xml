@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7461334-94f8-4e87-8aff-f82eaee67313" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/heirarchical_data/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/heirarchical_data/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heirarchical_data/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/heirarchical_data/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mpttapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpttapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mpttapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpttapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mpttapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpttapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1e0qH2sumxhD4Qb66qPwvv2D6Gh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -68,6 +73,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="762" y="304" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593480026322">
+      <screen x="0" y="23" width="2048" height="1056" />
+    </state>
+    <state x="762" y="304" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.-697.1920.1057/0.23.2048.1056@0.23.2048.1056" timestamp="1593480026322" />
     <state width="2026" height="356" key="GridCell.Tab.0.bottom" timestamp="1593476884377">
       <screen x="0" y="23" width="2048" height="1056" />
     </state>

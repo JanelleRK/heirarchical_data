@@ -15,7 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from mpttapp.views import index, add_file_view
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', index, name='homepage'),
+    path('addfile/', add_file_view, name='addfile')
 ]
